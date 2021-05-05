@@ -14,3 +14,4 @@ site link: https://hossain95.github.io/cfhelper/
 * API
 * Json
 * Ajax
+* Chart.js
